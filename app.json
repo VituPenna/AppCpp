@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "ClaudioCrachasPlacas",
+    "slug": "cpapp",
+    "platforms": ["android"],
+    "version": "1.2",
+    "orientation": "portrait",
+    "icon": "./assets/iconart.png",
+    "splash": {
+      "image": "./assets/splashart.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "privacy": "public",
+    "sdkVersion": "39.0.0",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.VDv.ClaudioCrachasPlacas",
+      "adaptiveIcon":{
+        "backgroundColor": "#fff",
+        "foregroundImage": "./assets/iconart.png"
+      }
+      
+    }
+    
+    
+
+    
+  }
+}
